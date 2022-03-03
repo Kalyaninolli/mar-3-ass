@@ -1,0 +1,11 @@
+t1=("kalyani")
+t2=("nolli")
+t=t1+t2
+print(t)
+
+
+
+
+
+
+    
